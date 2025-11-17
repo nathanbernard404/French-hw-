@@ -1,69 +1,67 @@
-écouter-to listen
-lire-to read
-se sentir -to smell
-etre- to be
-avoir-to have 
-tousser-to cough
-aller-to go 
-examiner-to examine
-trouver-to find
-habiter-to live
-voir-to see
-pouvoir-to be able
-expliquer-to explain
+adorer-to adore
 aggraver-to aggravate
-causer-to cause
-savoir-to know
-contenir-contain
-tenir-hold
-irriter-irritate
-faire-to do
-sorter-to sorter
-porter-to wear
+aider-to aid
+aller-to go 
 améliorer-to improve
-utiliser-to utilise
-fermer-to close
-prescrire-to prescribe
-Prendre-to take
-hésiter-to hesitate
-contracter-to contract
-persister-to persist
-suivre-to follow
-coûter- to cost 
-prendre-to take
-faire-to do
 appliquer-to apply
+appuyer-to press
+arriver-to arrive
+arrêter-to stop
+associer-to associate
 avaler-to swallow
 avoir-to have
+avoir-to have 
+baisser-to lower
+barrer-to block
+causer-to cause
+compléter-to complete
+connaître-to know
+contenir-contain
+contracter-to contract
+coûter- to cost 
+donner-to give
+etre- to be
 etre-to be
-arriver-to arrive
-référer-to refer
-répéter-to repeat
-associer-to associate
-rappeler-to recall
-vivre-to live
+examiner-to examine
+expliquer-to explain
+faire-to do
+fermer-to close
+habiter-to live
+hésiter-to hesitate
+inquiter-to worry
+irriter-irritate
+lire-to read
 manger-to eat
 marche-to walk
-baisser-to lower
-compléter-to complete
-voyager-to voyage
-arrêter-to stop
-travailler-to work
-venir-to come 
-revenir-to come back
-remplir-to fill
-penser-to think
-rentrer-to return
-adorer-to adore
-barrer-to block
-aider-to aid
-inquiter-to worry
-soulager-to treat
-donner-to give
 monter-to climb
-s'asseoir-to sit 
-parler-to say
-écrire-to write
-Appuyer-to press
-connaître-to know
 nettoyer-to clean
+parler-to say
+penser-to think
+persister-to persist
+porter-to wear
+pouvoir-to be able
+prendre-to take
+prescrire-to prescribe
+rappeler-to recall
+remplir-to fill
+rentrer-to return
+revenir-to come back
+référer-to refer
+répéter-to repeat
+s'asseoir-to sit 
+savoir-to know
+se sentir -to smell
+sorter-to sorter
+soulager-to treat
+suivre-to follow
+tenir-hold
+tousser-to cough
+travailler-to work
+trouver-to find
+utiliser-to utilise
+venir-to come 
+vivre-to live
+voir-to see
+voyager-to voyage
+écouter-to listen
+écrire-to write
